@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "N Plush Idle Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "N Plush Idle Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "N Plush Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				111
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "N Plush Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "N Plush Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "N Plush Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/plushn",
+	"position": [
+		190,
+		360
+	],
+	"healthicon": "plushn",
+	"flip_x": false,
+	"healthbar_colors": [
+		105,
+		105,
+		105
+	],
+	"camera_position": [
+		-80,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

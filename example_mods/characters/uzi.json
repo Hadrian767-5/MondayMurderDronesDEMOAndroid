@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Uzi Idle"
+		},
+		{
+			"offsets": [
+				230,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Uzi Left"
+		},
+		{
+			"offsets": [
+				10,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Uzi Up"
+		},
+		{
+			"offsets": [
+				90,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Uzi Down"
+		},
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Uzi Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/uzi",
+	"position": [
+		190,
+		40
+	],
+	"healthicon": "uzi",
+	"flip_x": false,
+	"healthbar_colors": [
+		147,
+		0,
+		155
+	],
+	"camera_position": [
+		-110,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

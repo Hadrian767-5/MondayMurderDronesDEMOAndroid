@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="plushn.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="N Plush Down0000" x="0" y="0" width="239" height="341" frameX="-1" frameY="0" frameWidth="242" frameHeight="342"/>
+	<SubTexture name="N Plush Down0001" x="0" y="0" width="239" height="341" frameX="-1" frameY="0" frameWidth="242" frameHeight="342"/>
+	<SubTexture name="N Plush Down0002" x="289" y="0" width="242" height="336" frameX="0" frameY="-6" frameWidth="242" frameHeight="342"/>
+	<SubTexture name="N Plush Down0003" x="289" y="0" width="242" height="336" frameX="0" frameY="-6" frameWidth="242" frameHeight="342"/>
+	<SubTexture name="N Plush Down0004" x="581" y="0" width="235" height="335" frameX="-5" frameY="-7" frameWidth="242" frameHeight="342"/>
+	<SubTexture name="N Plush Down0005" x="581" y="0" width="235" height="335" frameX="-5" frameY="-7" frameWidth="242" frameHeight="342"/>
+	<SubTexture name="N Plush Down0006" x="866" y="0" width="228" height="336" frameX="-9" frameY="-6" frameWidth="242" frameHeight="342"/>
+	<SubTexture name="N Plush Down0007" x="866" y="0" width="228" height="336" frameX="-9" frameY="-6" frameWidth="242" frameHeight="342"/>
+	<SubTexture name="N Plush Down0008" x="1144" y="0" width="228" height="337" frameX="-9" frameY="-5" frameWidth="242" frameHeight="342"/>
+	<SubTexture name="N Plush Down0009" x="1144" y="0" width="228" height="337" frameX="-9" frameY="-5" frameWidth="242" frameHeight="342"/>
+	<SubTexture name="N Plush Down0010" x="1144" y="0" width="228" height="337" frameX="-9" frameY="-5" frameWidth="242" frameHeight="342"/>
+	<SubTexture name="N Plush Down0011" x="1144" y="0" width="228" height="337" frameX="-9" frameY="-5" frameWidth="242" frameHeight="342"/>
+	<SubTexture name="N Plush Down0012" x="1144" y="0" width="228" height="337" frameX="-9" frameY="-5" frameWidth="242" frameHeight="342"/>
+	<SubTexture name="N Plush Down0013" x="1144" y="0" width="228" height="337" frameX="-9" frameY="-5" frameWidth="242" frameHeight="342"/>
+	<SubTexture name="N Plush Idle Left0000" x="1422" y="0" width="242" height="351" frameX="0" frameY="0" frameWidth="242" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Left0001" x="1422" y="0" width="242" height="351" frameX="0" frameY="0" frameWidth="242" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Left0002" x="1714" y="0" width="240" height="351" frameX="0" frameY="0" frameWidth="242" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Left0003" x="1714" y="0" width="240" height="351" frameX="0" frameY="0" frameWidth="242" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Left0004" x="2004" y="0" width="238" height="352" frameX="0" frameY="0" frameWidth="242" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Left0005" x="2004" y="0" width="238" height="352" frameX="0" frameY="0" frameWidth="242" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Left0006" x="2292" y="0" width="237" height="352" frameX="0" frameY="0" frameWidth="242" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Left0007" x="2292" y="0" width="237" height="352" frameX="0" frameY="0" frameWidth="242" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Left0008" x="2579" y="0" width="237" height="352" frameX="0" frameY="0" frameWidth="242" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Left0009" x="2579" y="0" width="237" height="352" frameX="0" frameY="0" frameWidth="242" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Left0010" x="2866" y="0" width="237" height="352" frameX="0" frameY="0" frameWidth="242" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Left0011" x="2866" y="0" width="237" height="352" frameX="0" frameY="0" frameWidth="242" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Left0012" x="3153" y="0" width="237" height="352" frameX="0" frameY="0" frameWidth="242" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Left0013" x="3153" y="0" width="237" height="352" frameX="0" frameY="0" frameWidth="242" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Right0000" x="3440" y="0" width="244" height="351" frameX="0" frameY="0" frameWidth="244" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Right0001" x="3440" y="0" width="244" height="351" frameX="0" frameY="0" frameWidth="244" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Right0002" x="3734" y="0" width="242" height="351" frameX="0" frameY="0" frameWidth="244" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Right0003" x="3734" y="0" width="242" height="351" frameX="0" frameY="0" frameWidth="244" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Right0004" x="0" y="402" width="238" height="352" frameX="0" frameY="0" frameWidth="244" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Right0005" x="0" y="402" width="238" height="352" frameX="0" frameY="0" frameWidth="244" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Right0006" x="288" y="402" width="236" height="352" frameX="0" frameY="0" frameWidth="244" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Right0007" x="288" y="402" width="236" height="352" frameX="0" frameY="0" frameWidth="244" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Right0008" x="574" y="402" width="236" height="352" frameX="0" frameY="0" frameWidth="244" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Right0009" x="574" y="402" width="236" height="352" frameX="0" frameY="0" frameWidth="244" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Right0010" x="860" y="402" width="236" height="352" frameX="0" frameY="0" frameWidth="244" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Right0011" x="860" y="402" width="236" height="352" frameX="0" frameY="0" frameWidth="244" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Right0012" x="1146" y="402" width="236" height="352" frameX="0" frameY="0" frameWidth="244" frameHeight="352"/>
+	<SubTexture name="N Plush Idle Right0013" x="1146" y="402" width="236" height="352" frameX="0" frameY="0" frameWidth="244" frameHeight="352"/>
+	<SubTexture name="N Plush Left0000" x="1432" y="402" width="249" height="357" frameX="0" frameY="0" frameWidth="249" frameHeight="358"/>
+	<SubTexture name="N Plush Left0001" x="1432" y="402" width="249" height="357" frameX="0" frameY="0" frameWidth="249" frameHeight="358"/>
+	<SubTexture name="N Plush Left0002" x="1731" y="402" width="245" height="357" frameX="-3" frameY="0" frameWidth="249" frameHeight="358"/>
+	<SubTexture name="N Plush Left0003" x="1731" y="402" width="245" height="357" frameX="-3" frameY="0" frameWidth="249" frameHeight="358"/>
+	<SubTexture name="N Plush Left0004" x="2026" y="402" width="244" height="358" frameX="-4" frameY="0" frameWidth="249" frameHeight="358"/>
+	<SubTexture name="N Plush Left0005" x="2026" y="402" width="244" height="358" frameX="-4" frameY="0" frameWidth="249" frameHeight="358"/>
+	<SubTexture name="N Plush Left0006" x="2320" y="402" width="243" height="358" frameX="-4" frameY="0" frameWidth="249" frameHeight="358"/>
+	<SubTexture name="N Plush Left0007" x="2320" y="402" width="243" height="358" frameX="-4" frameY="0" frameWidth="249" frameHeight="358"/>
+	<SubTexture name="N Plush Left0008" x="2613" y="402" width="243" height="358" frameX="-4" frameY="0" frameWidth="249" frameHeight="358"/>
+	<SubTexture name="N Plush Left0009" x="2613" y="402" width="243" height="358" frameX="-4" frameY="0" frameWidth="249" frameHeight="358"/>
+	<SubTexture name="N Plush Left0010" x="2613" y="402" width="243" height="358" frameX="-4" frameY="0" frameWidth="249" frameHeight="358"/>
+	<SubTexture name="N Plush Left0011" x="2613" y="402" width="243" height="358" frameX="-4" frameY="0" frameWidth="249" frameHeight="358"/>
+	<SubTexture name="N Plush Left0012" x="2613" y="402" width="243" height="358" frameX="-4" frameY="0" frameWidth="249" frameHeight="358"/>
+	<SubTexture name="N Plush Left0013" x="2613" y="402" width="243" height="358" frameX="-4" frameY="0" frameWidth="249" frameHeight="358"/>
+	<SubTexture name="N Plush Right0000" x="2906" y="402" width="291" height="353" frameX="0" frameY="0" frameWidth="295" frameHeight="354"/>
+	<SubTexture name="N Plush Right0001" x="2906" y="402" width="291" height="353" frameX="0" frameY="0" frameWidth="295" frameHeight="354"/>
+	<SubTexture name="N Plush Right0002" x="3247" y="402" width="292" height="347" frameX="0" frameY="-7" frameWidth="295" frameHeight="354"/>
+	<SubTexture name="N Plush Right0003" x="3247" y="402" width="292" height="347" frameX="0" frameY="-7" frameWidth="295" frameHeight="354"/>
+	<SubTexture name="N Plush Right0004" x="3589" y="402" width="293" height="349" frameX="-1" frameY="-5" frameWidth="295" frameHeight="354"/>
+	<SubTexture name="N Plush Right0005" x="3589" y="402" width="293" height="349" frameX="-1" frameY="-5" frameWidth="295" frameHeight="354"/>
+	<SubTexture name="N Plush Right0006" x="0" y="810" width="288" height="350" frameX="-1" frameY="-4" frameWidth="295" frameHeight="354"/>
+	<SubTexture name="N Plush Right0007" x="0" y="810" width="288" height="350" frameX="-1" frameY="-4" frameWidth="295" frameHeight="354"/>
+	<SubTexture name="N Plush Right0008" x="338" y="810" width="289" height="351" frameX="-1" frameY="-3" frameWidth="295" frameHeight="354"/>
+	<SubTexture name="N Plush Right0009" x="338" y="810" width="289" height="351" frameX="-1" frameY="-3" frameWidth="295" frameHeight="354"/>
+	<SubTexture name="N Plush Right0010" x="338" y="810" width="289" height="351" frameX="-1" frameY="-3" frameWidth="295" frameHeight="354"/>
+	<SubTexture name="N Plush Right0011" x="338" y="810" width="289" height="351" frameX="-1" frameY="-3" frameWidth="295" frameHeight="354"/>
+	<SubTexture name="N Plush Right0012" x="338" y="810" width="289" height="351" frameX="-1" frameY="-3" frameWidth="295" frameHeight="354"/>
+	<SubTexture name="N Plush Right0013" x="338" y="810" width="289" height="351" frameX="-1" frameY="-3" frameWidth="295" frameHeight="354"/>
+	<SubTexture name="N Plush Up0000" x="677" y="810" width="245" height="397" frameX="-2" frameY="-2" frameWidth="273" frameHeight="469"/>
+	<SubTexture name="N Plush Up0001" x="972" y="810" width="246" height="391" frameX="-2" frameY="-2" frameWidth="273" frameHeight="469"/>
+	<SubTexture name="N Plush Up0002" x="972" y="810" width="246" height="391" frameX="-2" frameY="-2" frameWidth="273" frameHeight="469"/>
+	<SubTexture name="N Plush Up0003" x="1268" y="810" width="245" height="402" frameX="-4" frameY="-3" frameWidth="273" frameHeight="469"/>
+	<SubTexture name="N Plush Up0004" x="1563" y="810" width="243" height="431" frameX="-6" frameY="-4" frameWidth="273" frameHeight="469"/>
+	<SubTexture name="N Plush Up0005" x="1856" y="810" width="260" height="468" frameX="0" frameY="0" frameWidth="273" frameHeight="469"/>
+	<SubTexture name="N Plush Up0006" x="2166" y="810" width="273" height="468" frameX="0" frameY="0" frameWidth="273" frameHeight="469"/>
+	<SubTexture name="N Plush Up0007" x="2489" y="810" width="262" height="466" frameX="-2" frameY="-2" frameWidth="273" frameHeight="469"/>
+	<SubTexture name="N Plush Up0008" x="2489" y="810" width="262" height="466" frameX="-2" frameY="-2" frameWidth="273" frameHeight="469"/>
+	<SubTexture name="N Plush Up0009" x="2801" y="810" width="257" height="467" frameX="-2" frameY="-2" frameWidth="273" frameHeight="469"/>
+	<SubTexture name="N Plush Up0010" x="2801" y="810" width="257" height="467" frameX="-2" frameY="-2" frameWidth="273" frameHeight="469"/>
+	<SubTexture name="N Plush Up0011" x="3108" y="810" width="254" height="467" frameX="-2" frameY="-2" frameWidth="273" frameHeight="469"/>
+	<SubTexture name="N Plush Up0012" x="3108" y="810" width="254" height="467" frameX="-2" frameY="-2" frameWidth="273" frameHeight="469"/>
+	<SubTexture name="N Plush Up0013" x="3412" y="810" width="254" height="467" frameX="-2" frameY="-2" frameWidth="273" frameHeight="469"/>
+	<SubTexture name="N Plush Up0014" x="3412" y="810" width="254" height="467" frameX="-2" frameY="-2" frameWidth="273" frameHeight="469"/>
+	<SubTexture name="N Plush Up0015" x="3716" y="810" width="254" height="467" frameX="-2" frameY="-2" frameWidth="273" frameHeight="469"/>
+	<SubTexture name="N Plush Up0016" x="3716" y="810" width="254" height="467" frameX="-2" frameY="-2" frameWidth="273" frameHeight="469"/>
+</TextureAtlas>

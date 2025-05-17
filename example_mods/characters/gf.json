@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Gf left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				3
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Gf right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-6
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "Gf sad",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf",
+	"position": [
+		110,
+		40
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-80,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

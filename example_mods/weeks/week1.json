@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Offsite",
+			"uzi",
+			[
+				147,
+				0,
+				155
+			]
+		],
+		[
+			"Just State",
+			"uzi",
+			[
+				147,
+				0,
+				155
+			]
+		],
+		[
+			"Railgun",
+			"uzi",
+			[
+				147,
+				0,
+				155
+			]
+		],
+		[
+			"Funpiest",
+			"plushn",
+			[
+				105,
+				105,
+				105
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "",
+	"weekName": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
